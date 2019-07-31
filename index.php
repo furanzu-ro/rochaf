@@ -7,13 +7,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-/* Style the body */
+
 body {
   font-family: Arial;
   margin: 0;
 }
 
-/* Header/Logo Title */
+
 .header {
   padding: 60px;
   text-align: center;
@@ -22,19 +22,12 @@ body {
   font-size: 30px;
 }
 
-/* Page Content */
+
 .content {padding:20px;}
 </style>
 </head>
 <body>
 
-.header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
   <center> <img src = "https://laz-img-cdn.alicdn.com/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png"/> </center>
 
   
