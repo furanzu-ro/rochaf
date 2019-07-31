@@ -33,7 +33,7 @@ body {
  nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 300px; 
   background: #ccc;
   padding: 20px;
 }
@@ -67,7 +67,7 @@ section:after {
 <body>
 
 <div class="footer">
-  <p>Footer</p>
+ <p><i>"Niagra Falls"</i></p>
 </div>
 <div class="header">
   <h1>Niagra Falls</h1>
