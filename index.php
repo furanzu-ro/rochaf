@@ -18,7 +18,7 @@ body {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
-  color: white;
+  color: red;
   font-size: 30px;
 }
 
