@@ -6,11 +6,17 @@
 <title>Products</title>
 </head>
 
- <div class="header">
-  <h1>Header</h1>
-  <center> <img src = "https://laz-img-cdn.alicdn.com/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png"/> </center>
-</div>
 
+header {
+  <center> <img src = "https://laz-img-cdn.alicdn.com/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png"/> </center>
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+  
 <hr>
 </hr>
 <a href="https://www.w3schools.com/html/html_links.asp/"> Devices > Gaming</a> <p1>> Consoles</p>
