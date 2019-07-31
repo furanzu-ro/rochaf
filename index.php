@@ -44,7 +44,7 @@ nav ul {
 }
 
 article {
-  float: left;
+  float: center;
   padding: 20px;
   width: 70%;
   background-color: #FFFACD;
