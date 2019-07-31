@@ -17,7 +17,7 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background: #1abc9c;
+  background: red;
   color: red;
   font-size: 30px;
 }
