@@ -29,6 +29,34 @@ body {
    color: white;
    text-align: center;
 }
+ 
+ nav {
+  float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #FFFACD;
+  height: 300px; 
+}
+
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
  @media (max-width: 600px) {
   nav, article {
     width: 100%;
