@@ -29,6 +29,11 @@ body {
    color: white;
    text-align: center;
 }
+ @media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+   
 </style>
 </head>
 <body>
@@ -38,12 +43,13 @@ body {
 </div>
 <div class="header">
   <h1>Niagra Falls</h1>
-  <p>Info about the famous waterfalls</p>
+  <p>Info about the famous waterfall</p>
 </div>
 
 <section>
   <nav>
-   <p>“Their roar is around me. I am on the brink Of the great waters—and their anthem voice Goes up amid the rainbow and the mist.”</p>
+   <p>“Their roar is around me. I am on the brink Of the great waters— <br>
+    and their anthem voice Goes up amid the rainbow and the mist.”</p>
   </nav>
   
   <article>
