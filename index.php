@@ -37,16 +37,21 @@ body {
   <p>Footer</p>
 </div>
 <div class="header">
-  <h1>Franz.com</h1>
-  <p>Header ni siya</p>
+  <h1>Niagra Falls</h1>
+  <p>Info about the famous waterfalls</p>
 </div>
 
-<div class="content">
-<center>  
-<h1>This is Franz!</h1>
-  <p>This is my property</p>
-</center>
-</div>
+<section>
+  <nav>
+   <p>“Their roar is around me. I am on the brink Of the great waters—and their anthem voice Goes up amid the rainbow and the mist.”</p>
+  </nav>
+  
+  <article>
+    <h1>Niagra Falls</h1>
+    <p>Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, between the Canadian province of Ontario and the US state of New York. The largest is Horseshoe Falls, also known as Canadian Falls, which straddles the international border between Canada and the United States</p>
+    <p>Niagara Falls is famed both for its beauty and as a valuable source of hydroelectric power. Balancing recreational, commercial, and industrial uses has been a challenge for the stewards of the falls since the 19th century.</p>
+  </article>
+</section>
 
 
 </body>
