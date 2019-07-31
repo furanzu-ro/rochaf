@@ -5,9 +5,11 @@
 <body style="background-color:skyblue;">
 <title>Products</title>
 </head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
-
-header {
+.header {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
