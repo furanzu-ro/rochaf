@@ -24,7 +24,7 @@
 </ul>
 
 <center> <button> Buy </button> <button> Wish List </button> </center>
-
+  <p> Thank you for reading!</p1>
 
 </body>
 </html>
